@@ -4,4 +4,4 @@ Electrify can tell you the value and maximum power rating of a resistor with jus
 
 Head to https://electrify-e4305.firebaseapp.com/ to try it out!
 
-Want some images to test it on? Download the contents of the test folder for a sample set of 10 images. 
+Want some images to test it on? Download the contents of the TestImages folder for a sample set of 10 images. 
