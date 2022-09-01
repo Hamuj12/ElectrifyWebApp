@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "node-ex-website",
+    "public": "express",
     "ignore": [
       "firebase.json",
       "**/.*",

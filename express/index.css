@@ -3,7 +3,7 @@ body {
   color: #666666;
 background-color: #f7fafc;
 font-size: 16px;
-padding-bottom: 5rem;
+/* padding-bottom: 5rem; */
 }
 
 .headline {
@@ -277,6 +277,10 @@ display: none;
 #resultContainer {
 display: none;
 }
+
+/* #resImage {
+	display: none;
+} */
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 
